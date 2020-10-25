@@ -1,0 +1,98 @@
+/* Variables */
+
+$brand-bg:        #88e8d5;
+$brand-white:     #ffffff;
+
+/* Global */
+
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  background-color: $brand-bg;
+  font-family: 'Roboto', sans-serif;
+  color: $brand-white;
+  font-size: 25px;
+}
+
+.wrapper {
+  height: 100%;
+  padding: 50px;
+}
+
+/* Main styles */
+
+/* Слайдер */
+.slick-slider {
+
+}
+/* Ограничивающая оболочка */
+.slick-list {
+
+}
+/* Лента слайдов */
+.slick-track {
+  display: flex;
+}
+
+/* Слайд */
+.slick-slide {
+
+/* Слайд активный */
+  &-active {
+
+  }
+
+/* Слайд основной */
+  &-current {
+
+  }
+
+/* Слайд по центру */
+  &-center{
+
+  }
+}
+
+/* Стрелка */
+.slick-arrow {
+
+/* Стрелка влево */
+  &.slick-prev {
+
+  }
+
+/* Стрелка вправо */
+  &.slick-next {
+
+  }
+
+/* Стрелка не активная */
+  &.slick-disabled {
+
+  }
+}
+
+/* Точки */
+.slick-dots {
+
+  li {
+
+  }
+
+  button {
+
+  }
+}
+
+
+
+/* Стрелка */
+/* Стрелка */

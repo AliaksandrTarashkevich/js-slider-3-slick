@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* Variables */
+/* Global */
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  background-color: #88e8d5;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.wrapper {
+  height: 100%;
+  padding: 50px;
+}
+
+/* Main styles */
+/* Слайдер */
+/* Ограничивающая оболочка */
+/* Лента слайдов */
+.slick-track {
+  display: flex;
+}
+
+/* Слайд */
+.slick-slide {
+  /* Слайд активный */
+  /* Слайд основной */
+  /* Слайд по центру */
+}
+/* Стрелка */
+.slick-arrow {
+  /* Стрелка влево */
+  /* Стрелка вправо */
+  /* Стрелка не активная */
+}
+/* Точки */
+/* Стрелка */
+/* Стрелка */
+
+/*# sourceMappingURL=style.css.map */
